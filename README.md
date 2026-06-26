@@ -1,2 +1,2 @@
 # Odin-Recipies
-The recipies project from Odin
+A little recipes wesite to showcase my HTML building skills
